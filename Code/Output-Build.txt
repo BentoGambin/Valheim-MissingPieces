@@ -1,0 +1,9 @@
+﻿Build started...
+1>------ Build started: Project: GreylingBomb, Configuration: Debug Any CPU ------
+1>  GreylingBomb -> E:\RiderRepos\GreylingBomb\GreylignBomb\bin\Debug\GreylingBomb.dll
+1>  Added assembly 'E:\RiderRepos\GreylingBomb\GreylignBomb\bin\Debug\GreylingBomb.dll'
+1>  Added assembly 'bin\Debug\\ItemManager.dll'
+1>  Added assembly 'bin\Debug\\ServerSync.dll'
+1>  Merging 3 assembies to 'E:\RiderRepos\GreylingBomb\GreylignBomb\bin\Debug\GreylingBomb.dll'
+1>  Merge succeeded in 0.2086768 s
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

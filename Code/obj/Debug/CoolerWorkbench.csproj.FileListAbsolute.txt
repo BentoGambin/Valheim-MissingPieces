@@ -1,0 +1,38 @@
+D:\Arquivos\Desktop\GodBow\bin\Debug\0Harmony.dll
+D:\Arquivos\Desktop\GodBow\bin\Debug\assembly_guiutils_publicized.dll
+D:\Arquivos\Desktop\GodBow\bin\Debug\assembly_utils_publicized.dll
+D:\Arquivos\Desktop\GodBow\bin\Debug\assembly_valheim_publicized.dll
+D:\Arquivos\Desktop\GodBow\bin\Debug\BepInEx.dll
+D:\Arquivos\Desktop\GodBow\bin\Debug\CreatureManager.dll
+D:\Arquivos\Desktop\GodBow\bin\Debug\ItemManager.dll
+D:\Arquivos\Desktop\GodBow\bin\Debug\PieceManager.dll
+D:\Arquivos\Desktop\GodBow\bin\Debug\ServerSync.dll
+D:\Arquivos\Desktop\GodBow\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\Arquivos\Desktop\GodBow\bin\Debug\UnityEngine.CoreModule.dll
+D:\Arquivos\Desktop\GodBow\bin\Debug\UnityEngine.dll
+D:\Arquivos\Desktop\GodBow\obj\Debug\CoolerWorkbench.csproj.AssemblyReference.cache
+D:\Arquivos\Desktop\GodBow\obj\Debug\CoolerWorkbench.csproj.CoreCompileInputs.cache
+D:\Arquivos\Desktop\GodBow\obj\Debug\CoolerWorkbench.csproj.CopyComplete
+D:\Arquivos\Desktop\GodBow\bin\Debug\CoolerWorkbench.dll
+D:\Arquivos\Desktop\GodBow\bin\Debug\CoolerWorkbench.pdb
+D:\Arquivos\Desktop\GodBow\obj\Debug\CoolerWorkbench.dll
+D:\Arquivos\Desktop\GodBow\obj\Debug\CoolerWorkbench.pdb
+D:\Arquivos\Documents\Valheim Modding\Code\CoolerWorkbench\bin\Debug\CoolerWorkbench.dll
+D:\Arquivos\Documents\Valheim Modding\Code\CoolerWorkbench\bin\Debug\CoolerWorkbench.pdb
+D:\Arquivos\Documents\Valheim Modding\Code\CoolerWorkbench\bin\Debug\0Harmony.dll
+D:\Arquivos\Documents\Valheim Modding\Code\CoolerWorkbench\bin\Debug\assembly_guiutils_publicized.dll
+D:\Arquivos\Documents\Valheim Modding\Code\CoolerWorkbench\bin\Debug\assembly_utils_publicized.dll
+D:\Arquivos\Documents\Valheim Modding\Code\CoolerWorkbench\bin\Debug\assembly_valheim_publicized.dll
+D:\Arquivos\Documents\Valheim Modding\Code\CoolerWorkbench\bin\Debug\BepInEx.dll
+D:\Arquivos\Documents\Valheim Modding\Code\CoolerWorkbench\bin\Debug\CreatureManager.dll
+D:\Arquivos\Documents\Valheim Modding\Code\CoolerWorkbench\bin\Debug\ItemManager.dll
+D:\Arquivos\Documents\Valheim Modding\Code\CoolerWorkbench\bin\Debug\PieceManager.dll
+D:\Arquivos\Documents\Valheim Modding\Code\CoolerWorkbench\bin\Debug\ServerSync.dll
+D:\Arquivos\Documents\Valheim Modding\Code\CoolerWorkbench\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\Arquivos\Documents\Valheim Modding\Code\CoolerWorkbench\bin\Debug\UnityEngine.CoreModule.dll
+D:\Arquivos\Documents\Valheim Modding\Code\CoolerWorkbench\bin\Debug\UnityEngine.dll
+D:\Arquivos\Documents\Valheim Modding\Code\CoolerWorkbench\obj\Debug\CoolerWorkbench.csproj.AssemblyReference.cache
+D:\Arquivos\Documents\Valheim Modding\Code\CoolerWorkbench\obj\Debug\CoolerWorkbench.csproj.CoreCompileInputs.cache
+D:\Arquivos\Documents\Valheim Modding\Code\CoolerWorkbench\obj\Debug\CoolerWorkbench.csproj.CopyComplete
+D:\Arquivos\Documents\Valheim Modding\Code\CoolerWorkbench\obj\Debug\CoolerWorkbench.dll
+D:\Arquivos\Documents\Valheim Modding\Code\CoolerWorkbench\obj\Debug\CoolerWorkbench.pdb
