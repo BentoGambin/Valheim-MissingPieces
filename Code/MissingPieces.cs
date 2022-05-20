@@ -114,7 +114,7 @@ namespace MissingPieces
     }
 }
 [HarmonyPatch(typeof(ZNetScene),nameof(ZNetScene.Awake))]
-static class ZNetSceneAwakePatch
+static class ZNetScene_Awake_Patch
 {
     static void Postfix(ZNetScene __instance)
     {
@@ -124,11 +124,12 @@ static class ZNetSceneAwakePatch
         __instance.GetPrefab("roof_darkwood_26_left").GetComponent<Piece>().m_craftingStation = __instance.GetPrefab("piece_workbench").GetComponent<CraftingStation>();
         __instance.GetPrefab("roof_darkwood_45_right").GetComponent<Piece>().m_craftingStation = __instance.GetPrefab("piece_workbench").GetComponent<CraftingStation>();
         __instance.GetPrefab("roof_darkwood_26_right").GetComponent<Piece>().m_craftingStation = __instance.GetPrefab("piece_workbench").GetComponent<CraftingStation>();
-        __instance.GetPrefab("roof_wood_45_left").GetComponent<Piece>().m_craftingStation = __instance.GetPrefab("piece_workbench").GetComponent<CraftingStation>();
-        __instance.GetPrefab("roof_wood_26_left").GetComponent<Piece>().m_craftingStation = __instance.GetPrefab("piece_workbench").GetComponent<CraftingStation>();
-        __instance.GetPrefab("roof_wood_45_right").GetComponent<Piece>().m_craftingStation = __instance.GetPrefab("piece_workbench").GetComponent<CraftingStation>();
-        __instance.GetPrefab("roof_wood_26_right").GetComponent<Piece>().m_craftingStation = __instance.GetPrefab("piece_workbench").GetComponent<CraftingStation>();
+        //__instance.GetPrefab("roof_wood_45_left").GetComponent<Piece>().m_craftingStation = __instance.GetPrefab("piece_workbench").GetComponent<CraftingStation>();
+        //__instance.GetPrefab("roof_wood_26_left").GetComponent<Piece>().m_craftingStation = __instance.GetPrefab("piece_workbench").GetComponent<CraftingStation>();
+        //__instance.GetPrefab("roof_wood_45_right").GetComponent<Piece>().m_craftingStation = __instance.GetPrefab("piece_workbench").GetComponent<CraftingStation>();
+        //__instance.GetPrefab("roof_wood_26_right").GetComponent<Piece>().m_craftingStation = __instance.GetPrefab("piece_workbench").GetComponent<CraftingStation>();
         __instance.GetPrefab("stone_wall_2x1_triangular").GetComponent<Piece>().m_craftingStation = __instance.GetPrefab("piece_stonecutter").GetComponent<CraftingStation>();
         __instance.GetPrefab("stone_wall_1x1_triangular").GetComponent<Piece>().m_craftingStation = __instance.GetPrefab("piece_stonecutter").GetComponent<CraftingStation>();
+        __instance.GetPrefab("stone_stair_corner").GetComponent<Piece>().m_craftingStation = __instance.GetPrefab("piece_stonecutter").GetComponent<CraftingStation>();
     }
 }
