@@ -26,3 +26,11 @@
 <p align="center">
 <img alt="Ideas" width="600" src="https://github.com/BentoGambin/Valheim-MissingPieces/blob/main/.Github/stone_triangular.png?raw=true" />
 </p>
+
+<p align="center">
+<img alt="Ideas" width="600" src="https://github.com/BentoGambin/Valheim-MissingPieces/blob/main/.Github/roof2.png?raw=true" />
+</p>
+
+<p align="center">
+<img alt="Ideas" width="600" src="https://github.com/BentoGambin/Valheim-MissingPieces/blob/main/.Github/trig_floor.png?raw=true" />
+</p>
