@@ -43,7 +43,7 @@ Right-Triangular Floor Pieces:
 <p align="center">
 <img alt="Ideas" width="800" src="https://github.com/BentoGambin/Valheim-MissingPieces/blob/main/.Github/1x1_stone_floor.png?raw=true" />
 </p>
-Wooden drawer (finewood chest sized with text infront): 
+Wooden drawer (finewood chest sized, stackable and with text infront): 
 <p align="center">
 <img alt="Ideas" width="800" src="https://github.com/BentoGambin/Valheim-MissingPieces/blob/main/.Github/drawer.png?raw=true" />
 </p>
