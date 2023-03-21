@@ -3,6 +3,8 @@
 
 <h2 align="center">A fix for what impedes your building fix.</h2>
 <br /><br /><br /><br />
+
+This mod is brought to you by BentoG, now maintained with the help of VentureValheim. Please direct all comments and issues to OrianaVenture on discord or at Venture Gaming. To make a report on github please do so under the specified project fork.
                      
 [<img alt="Ideas" align="left" width="250px" src="https://github.com/BentoGambin/Valheim-MissingPieces/blob/main/.Github/Ideas.png?raw=true" />](https://github.com/BentoGambin/Valheim-MissingPieces/discussions/categories/ideas)
 [<img alt="Ideas" align="right" width="250px" src="https://github.com/BentoGambin/Valheim-MissingPieces/blob/main/.Github/Bugs.png?raw=true" />](https://github.com/BentoGambin/Valheim-MissingPieces/issues)
